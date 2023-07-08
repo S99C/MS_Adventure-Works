@@ -12,6 +12,9 @@ Product Details<br/>
 
 Customer Details<br/>
 <img width="662" alt="Customer Details" src="https://user-images.githubusercontent.com/79993232/233290458-08322628-b0ee-4745-ae6c-82e0036193f6.png">
+
+Model View<br/>
+<img width="960" alt="Model View" src="https://github.com/S99C/MS_Adventure-Works/assets/79993232/f04b57b2-3116-46ba-9176-0aea1b9d56be">
 <br/>
 <br/>
 Please check out the interactive dashboard for more insights.
