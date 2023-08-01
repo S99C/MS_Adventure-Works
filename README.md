@@ -1,4 +1,4 @@
-# ms_adventure-Works
+# ms_adventure-works
 
 Prepared a Power BI dashboard and identified various KPIs and gained insights about key metrices impacting the business performance. Implemented Hybrid Schema, created various Lookup tables, modelled one to many relations between the tables and implemented normalization for removing redundancy. Created various complex measures using DAX and used them for visualizing the data and drilling down for in depth analysis. Implemented Row Level Security by filtering roles based on territory.
 
